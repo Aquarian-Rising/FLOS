@@ -17,6 +17,10 @@ For the core FLO Network protocol, see the [FLO Network repository](https://gith
 - [License](#license)
 - [Contact](#contact)
 
+## Related Projects
+
+This repository develops the FLOS operating system, which embeds and launches the FLO Network. For the core decentralized protocol and network details, check out the sister project: [FLO Network Repository](https://github.com/Aquarian-Rising/FLO_Network).
+
 ## Part 1: The Precipice: The Unavoidable Twin Challenges of the Near Future
 
 Before we can design a blueprint for the future, we must first face the architectural constraints of the world we are about to build. Our society is on the verge of two fundamental transformations—one economic, one physical. These are not matters of political debate or speculative alarmism; they are engineering and economic realities that will define the coming century. Understanding them is the first step toward designing a system that can not only withstand these changes but thrive because of them.
