@@ -6,7 +6,7 @@ Welcome to the FLOS repository! This project develops a cross-platform, lightwei
 
 FLOS builds on the FLO Network's vision of addressing AI-driven economic displacement and energy centralization through a fluid, peer-to-peer system. As a lightweight OS, it acts as the launcher and runtime for FLO daemons, allowing devices to contribute to the network effortlessly. This is an early-stage open-source initiative—currently a conceptual blueprint—and we're seeking contributors to help build prototypes, ensure cross-platform compatibility, implement device integrations, and expand the documentation. If you're a developer, OS enthusiast, embedded systems expert, or specialist in cross-platform tools (e.g., Rust, Flutter, or Qt), join us!
 
-For the core FLO Network protocol, see the [FLO Network repository](https://github.com/your-username/flo-network) (replace with actual URL).
+For the core FLO Network protocol, see the [FLO Network Repository](https://github.com/Aquarian-Rising/FLO_Network) (replace with actual URL).
 
 ### Table of Contents
 - [Part 1: The Precipice](#part-1-the-precipice)
@@ -16,10 +16,6 @@ For the core FLO Network protocol, see the [FLO Network repository](https://gith
 - [Roadmap and Tasks](#roadmap-and-tasks)
 - [License](#license)
 - [Contact](#contact)
-
-## Related Projects
-
-This repository develops the FLOS operating system, which embeds and launches the FLO Network. For the core decentralized protocol and network details, check out the sister project: [FLO Network Repository](https://github.com/Aquarian-Rising/FLO_Network).
 
 ## Part 1: The Precipice: The Unavoidable Twin Challenges of the Near Future
 
